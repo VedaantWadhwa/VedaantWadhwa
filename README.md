@@ -12,12 +12,12 @@ As a passionate cybersecurity enthusiast, my journey through BCA and MCA has dri
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Cybersecurity Auditing         | <a href="https://github.com/VedaantWadhwa/FictionalComp-Security-Audit/tree/main">Security Audit:Fictional Company(BOTIUM TOYS) </a>|
+| none | none|
+| none         | none|
+| none     | none|
+| none                 | none|
+| none | none|
 
 ## Tools
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
@@ -53,5 +53,5 @@ As a passionate cybersecurity enthusiast, my journey through BCA and MCA has dri
 </div>
 
 ## Projects
-- Detection Lab
-- SOC Automation Project
+- <a href="https://github.com/VedaantWadhwa/FictionalComp-Security-Audit/tree/main">Security Audit:Fictional Company(BOTIUM TOYS) </a>
+
